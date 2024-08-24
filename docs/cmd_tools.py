@@ -4,7 +4,6 @@
 have and parser object defined in their global scope - taken from tang
 
 """
-from __future__ import print_function
 import sys
 import os
 import imp

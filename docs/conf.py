@@ -14,7 +14,6 @@
 
 import sys
 import os
-import imp
 import subprocess
 
 # If extensions (or modules to document with autodoc) are in another
